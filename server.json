@@ -1,0 +1,8 @@
+{
+  "public": {
+    "mount": "/Data"
+  },
+  "archive": {
+    "enabled": true
+  }
+}
